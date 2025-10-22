@@ -2,7 +2,6 @@
 
 
 
-// armazenar os itens do carrossel
 let carouselArr = [];
 
 
